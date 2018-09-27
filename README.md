@@ -8,7 +8,7 @@ GCP makes it exceptionally convoluted to identify all resources by displaying th
 
 ### Tasks:
 
-* [Get started with Hadoop and Hive in Azure HDInsight - Resource Manager template](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-linux-tutorial-get-started) - 10 minute read
+* [Get started with Hadoop and Hive in Azure HDInsight - Resource Manager template](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-linux-tutorial-get-started) - 10 minute read (does not include ~20 minutes of initial cluster deployment)
 
   * Template and parameters from above are [available for download on GitHub](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-linux-ssh-password), as are [many other Azure quickstart template resource files](https://github.com/Azure/azure-quickstart-templates).
 
