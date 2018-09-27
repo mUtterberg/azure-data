@@ -2,7 +2,7 @@
 
 Dabbling in Azure.
 
-My initial impression is that the look is very old-school, somewhat ugly, and clearly Microsoft. However, I absolutely love that there is a clear "All Resources" tab, which is not easily accessible on AWS and GCP.
+My initial impression is that the look is very old-school, somewhat ugly, and clearly Microsoft. However, I absolutely love that there is a clear "All Resources" tab, which is not easily accessible on AWS and GCP. GCP makes it exceptionally convoluted to identify all resources by displaying them only by project, with additional navigating necessary to view all IAM roles/permissions (again, separated by project). The resources information for each project is displayed as a minimal summary card, only listing GCP product type and number of instances, which is frustrating from a project clean-up perspective.
 
 ### Tasks:
 
