@@ -2,6 +2,8 @@
 
 Dabbling in Azure.
 
+My initial impression is that the look is very old-school, somewhat ugly, and clearly Microsoft. However, I absolutely love that there is a clear "All Resources" tab, which is not easily accessible on AWS and GCP.
+
 ### Tasks:
 
 * [Get started with Hadoop and Hive in Azure HDInsight - Resource Manager template](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-linux-tutorial-get-started) - 10 minute read
